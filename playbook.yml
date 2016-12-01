@@ -1,6 +1,6 @@
 ---
 - hosts: dbserver
-  become: yes
+  become: noooo
   roles:
    - db
    hii babu
